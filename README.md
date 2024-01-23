@@ -3,4 +3,4 @@ Estudo do python para tratamento de dados e modelo e classificação ML com mode
 Estou utilizando o conceito de Regressão Linear
 
 
-O estudo em questão estou colocando dados fictícios do tamanho de um imóvel para comparar o tamanho com o preço.
+No estudo em questão, estou colocando dados fictícios do tamanho de um imóvel para comparar o tamanho com o preço.
